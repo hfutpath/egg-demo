@@ -1,4 +1,5 @@
 # egg-demo
+<<<<<<< HEAD
 
 
 
@@ -31,3 +32,6 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+=======
+egg的学习练手demo，参考：https://juejin.im/post/5e2a6215e51d454d50351f9b
+>>>>>>> 2b6b9901e952ec01f4e35cf24a66bc369e034ffb
