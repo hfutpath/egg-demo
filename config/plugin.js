@@ -1,4 +1,4 @@
-"use strict";
+'use strict';
 
 /** @type Egg.EggPlugin */
 // module.exports = {
@@ -9,15 +9,15 @@
 // };
 exports.cors = {
   enable: true,
-  package: "egg-cors",
+  package: 'egg-cors',
 };
 
 exports.ejs = {
   enable: true,
-  package: "egg-view-ejs",
+  package: 'egg-view-ejs',
 };
 
 exports.mysql = {
   enable: true,
-  package: "egg-mysql",
+  package: 'egg-mysql',
 };
